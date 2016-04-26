@@ -1,2 +1,2 @@
 # network-switching
-Assigment, Report and the completed Packet Tracer file.
+Assignment, Report and the completed Packet Tracer file.
